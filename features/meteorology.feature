@@ -1,9 +1,12 @@
-Feature: something something
-  In order to something something
-  A user something something
-  something something something
+Feature: Weather forecast for Ruby objects
+  In order to dress properly
+  As a Ruby object
+  I want to know what the weather will be like
 
-  Scenario: something something
-    Given inspiration
-    When I create a sweet new gem
-    Then everyone should see how awesome I am
+  Scenario: Finding the current temperature
+    Given I have a geocoded Ruby class
+    And I include Meteorology in the objects class
+
+	When the time is "2009-10-21 12:00"
+	And I ask for its current temperature
+	Then I should see "4.2 C"

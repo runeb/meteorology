@@ -1,6 +1,6 @@
 = meteorology
 
-Description goes here.
+Add weather forecasts to geocoded Ruby objects.
 
 == Note on Patches/Pull Requests
  

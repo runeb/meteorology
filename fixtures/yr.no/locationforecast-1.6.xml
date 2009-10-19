@@ -1,0 +1,2548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weatherdata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" created="2009-10-19T17:13:37Z" xsi:noNamespaceSchemaLocation="http://api.yr.no/weatherapi/locationforecast/1.6/schema">
+  <meta licenseurl="http://api.yr.no/license.html">
+    <model to="2009-10-22T05:00:00Z" from="2009-10-19T18:00:00Z" name="YR" runended="2009-10-19T14:59:36Z" nextrun="2009-10-20T03:00:00Z" termin="2009-10-19T12:00:00Z"/>
+    <model to="2009-10-28T18:00:00Z" from="2009-10-19T18:00:00Z" name="EPS" runended="2009-10-19T10:00:00Z" nextrun="2009-10-19T21:15:00Z" termin="2009-10-19T00:00:00Z"/>
+  </meta>
+  <product class="pointData">
+    <time datatype="forecast" from="2009-10-19T18:00:00Z" to="2009-10-19T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1012.5" id="pr"/>
+        <highClouds percent="51.2" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="44.3"/>
+        <mediumClouds percent="5.1" id="MEDIUM"/>
+        <windSpeed beaufort="1" mps="2.0" name="Flau vind" id="ff"/>
+        <cloudiness percent="51.2" id="NN"/>
+        <lowClouds percent="0.0" id="LOW"/>
+        <humidity unit="percent" value="98.9"/>
+        <temperature unit="celcius" value="-0.1" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T18:00:00Z" to="2009-10-19T19:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="2" id="LIGHTCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T18:00:00Z" to="2009-10-19T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="2" id="LIGHTCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T18:00:00Z" to="2009-10-19T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T18:00:00Z" to="2009-10-20T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T19:00:00Z" to="2009-10-19T19:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1013.0" id="pr"/>
+        <highClouds percent="27.5" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="44.4"/>
+        <mediumClouds percent="2.7" id="MEDIUM"/>
+        <windSpeed beaufort="1" mps="2.0" name="Flau vind" id="ff"/>
+        <cloudiness percent="27.5" id="NN"/>
+        <lowClouds percent="0.0" id="LOW"/>
+        <humidity unit="percent" value="99.5"/>
+        <temperature unit="celcius" value="-0.5" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T19:00:00Z" to="2009-10-19T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T19:00:00Z" to="2009-10-19T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T19:00:00Z" to="2009-10-19T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T19:00:00Z" to="2009-10-20T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T20:00:00Z" to="2009-10-19T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1013.5" id="pr"/>
+        <highClouds percent="43.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="49.6"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="2.6" name="Svak vind" id="ff"/>
+        <cloudiness percent="46.7" id="NN"/>
+        <lowClouds percent="0.0" id="LOW"/>
+        <humidity unit="percent" value="99.3"/>
+        <temperature unit="celcius" value="-0.8" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T20:00:00Z" to="2009-10-19T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T20:00:00Z" to="2009-10-19T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T20:00:00Z" to="2009-10-19T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T20:00:00Z" to="2009-10-20T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T21:00:00Z" to="2009-10-19T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1013.8" id="pr"/>
+        <highClouds percent="57.7" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="47.0"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="2.7" name="Svak vind" id="ff"/>
+        <cloudiness percent="57.8" id="NN"/>
+        <lowClouds percent="0.0" id="LOW"/>
+        <humidity unit="percent" value="100.0"/>
+        <temperature unit="celcius" value="-1.1" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T21:00:00Z" to="2009-10-19T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T21:00:00Z" to="2009-10-19T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T21:00:00Z" to="2009-10-20T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T21:00:00Z" to="2009-10-20T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T22:00:00Z" to="2009-10-19T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1014.5" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="0"/>
+        <highClouds percent="99.9" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="55.1"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="2.5" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="0.0" id="LOW"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <humidity unit="percent" value="100.2"/>
+        <temperature unit="celcius" value="-1.4" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T22:00:00Z" to="2009-10-19T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T22:00:00Z" to="2009-10-20T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T22:00:00Z" to="2009-10-20T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T22:00:00Z" to="2009-10-20T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <symbolProbability unit="probabilitycode" value="0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T23:00:00Z" to="2009-10-19T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1014.8" id="pr"/>
+        <highClouds percent="100.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="49.1"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="2.3" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="0.0" id="LOW"/>
+        <humidity unit="percent" value="99.5"/>
+        <temperature unit="celcius" value="-1.3" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T23:00:00Z" to="2009-10-20T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T23:00:00Z" to="2009-10-20T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T23:00:00Z" to="2009-10-20T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-19T23:00:00Z" to="2009-10-20T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T00:00:00Z" to="2009-10-20T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1015.1" id="pr"/>
+        <highClouds percent="100.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="50.9"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="3.2" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="0.0" id="LOW"/>
+        <humidity unit="percent" value="100.0"/>
+        <temperature unit="celcius" value="-1.2" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T00:00:00Z" to="2009-10-20T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T00:00:00Z" to="2009-10-20T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T00:00:00Z" to="2009-10-20T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T00:00:00Z" to="2009-10-20T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T01:00:00Z" to="2009-10-20T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1015.5" id="pr"/>
+        <highClouds percent="100.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="53.7"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="3.0" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="0.0" id="LOW"/>
+        <humidity unit="percent" value="99.7"/>
+        <temperature unit="celcius" value="-1.0" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T01:00:00Z" to="2009-10-20T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T01:00:00Z" to="2009-10-20T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T01:00:00Z" to="2009-10-20T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T01:00:00Z" to="2009-10-20T07:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T02:00:00Z" to="2009-10-20T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1015.5" id="pr"/>
+        <highClouds percent="100.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="54.7"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="3.5" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="0.0" id="LOW"/>
+        <humidity unit="percent" value="98.2"/>
+        <temperature unit="celcius" value="-0.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T02:00:00Z" to="2009-10-20T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T02:00:00Z" to="2009-10-20T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T02:00:00Z" to="2009-10-20T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T02:00:00Z" to="2009-10-20T08:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T03:00:00Z" to="2009-10-20T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1015.9" id="pr"/>
+        <highClouds percent="100.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="53.4"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="3.9" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="0.0" id="LOW"/>
+        <humidity unit="percent" value="99.3"/>
+        <temperature unit="celcius" value="-0.7" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T03:00:00Z" to="2009-10-20T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T03:00:00Z" to="2009-10-20T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T03:00:00Z" to="2009-10-20T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T03:00:00Z" to="2009-10-20T09:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T04:00:00Z" to="2009-10-20T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="77.7" id="FOG"/>
+        <pressure unit="hPa" value="1016.4" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="0"/>
+        <highClouds percent="16.1" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="53.9"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.0" name="Lett bris" id="ff"/>
+        <cloudiness percent="81.3" id="NN"/>
+        <lowClouds percent="0.0" id="LOW"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <humidity unit="percent" value="99.7"/>
+        <temperature unit="celcius" value="-0.9" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T04:00:00Z" to="2009-10-20T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T04:00:00Z" to="2009-10-20T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T04:00:00Z" to="2009-10-20T07:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T04:00:00Z" to="2009-10-20T10:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T05:00:00Z" to="2009-10-20T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="99.8" id="FOG"/>
+        <pressure unit="hPa" value="1017.1" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="56.3"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.1" name="Lett bris" id="ff"/>
+        <cloudiness percent="99.8" id="NN"/>
+        <lowClouds percent="0.0" id="LOW"/>
+        <humidity unit="percent" value="97.8"/>
+        <temperature unit="celcius" value="-1.1" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T05:00:00Z" to="2009-10-20T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T05:00:00Z" to="2009-10-20T07:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T05:00:00Z" to="2009-10-20T08:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T05:00:00Z" to="2009-10-20T11:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T06:00:00Z" to="2009-10-20T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="60.6" id="FOG"/>
+        <pressure unit="hPa" value="1017.5" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="51.8"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="3.9" name="Lett bris" id="ff"/>
+        <cloudiness percent="94.1" id="NN"/>
+        <lowClouds percent="94.1" id="LOW"/>
+        <humidity unit="percent" value="96.7"/>
+        <temperature unit="celcius" value="-0.8" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T06:00:00Z" to="2009-10-20T07:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T06:00:00Z" to="2009-10-20T08:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T06:00:00Z" to="2009-10-20T09:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T06:00:00Z" to="2009-10-20T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T07:00:00Z" to="2009-10-20T07:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.6" id="FOG"/>
+        <pressure unit="hPa" value="1018.0" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="59.1"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="3.8" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="96.6"/>
+        <temperature unit="celcius" value="-0.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T07:00:00Z" to="2009-10-20T08:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T07:00:00Z" to="2009-10-20T09:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T07:00:00Z" to="2009-10-20T10:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T07:00:00Z" to="2009-10-20T13:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T08:00:00Z" to="2009-10-20T08:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1018.6" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="54.7"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="3.6" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="96.4"/>
+        <temperature unit="celcius" value="0.0" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T08:00:00Z" to="2009-10-20T09:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T08:00:00Z" to="2009-10-20T10:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T08:00:00Z" to="2009-10-20T11:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T08:00:00Z" to="2009-10-20T14:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T09:00:00Z" to="2009-10-20T09:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1019.0" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="59.9"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="3.2" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="95.5"/>
+        <temperature unit="celcius" value="0.8" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T09:00:00Z" to="2009-10-20T10:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T09:00:00Z" to="2009-10-20T11:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T09:00:00Z" to="2009-10-20T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T09:00:00Z" to="2009-10-20T15:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T10:00:00Z" to="2009-10-20T10:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1019.3" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="0"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="61.2"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="2.6" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <humidity unit="percent" value="93.5"/>
+        <temperature unit="celcius" value="1.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T10:00:00Z" to="2009-10-20T11:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T10:00:00Z" to="2009-10-20T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T10:00:00Z" to="2009-10-20T13:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T10:00:00Z" to="2009-10-20T16:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T11:00:00Z" to="2009-10-20T11:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1019.3" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="61.9"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="2.3" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="89.3"/>
+        <temperature unit="celcius" value="2.4" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T11:00:00Z" to="2009-10-20T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T11:00:00Z" to="2009-10-20T13:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T11:00:00Z" to="2009-10-20T14:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T11:00:00Z" to="2009-10-20T17:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T12:00:00Z" to="2009-10-20T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1019.5" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="66.1"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="2.2" name="Svak vind" id="ff"/>
+        <cloudiness percent="99.0" id="NN"/>
+        <lowClouds percent="98.8" id="LOW"/>
+        <humidity unit="percent" value="85.7"/>
+        <temperature unit="celcius" value="3.2" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T12:00:00Z" to="2009-10-20T13:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T12:00:00Z" to="2009-10-20T14:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="2" id="LIGHTCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T12:00:00Z" to="2009-10-20T15:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T12:00:00Z" to="2009-10-20T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T13:00:00Z" to="2009-10-20T13:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1019.5" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="E" id="dd" deg="67.6"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="1" mps="1.9" name="Flau vind" id="ff"/>
+        <cloudiness percent="39.8" id="NN"/>
+        <lowClouds percent="39.8" id="LOW"/>
+        <humidity unit="percent" value="84.1"/>
+        <temperature unit="celcius" value="3.7" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T13:00:00Z" to="2009-10-20T14:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="2" id="LIGHTCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T13:00:00Z" to="2009-10-20T15:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T13:00:00Z" to="2009-10-20T16:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T13:00:00Z" to="2009-10-20T19:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T14:00:00Z" to="2009-10-20T14:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1019.5" id="pr"/>
+        <highClouds percent="8.2" id="HIGH"/>
+        <windDirection name="E" id="dd" deg="67.5"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="2.3" name="Svak vind" id="ff"/>
+        <cloudiness percent="35.6" id="NN"/>
+        <lowClouds percent="29.8" id="LOW"/>
+        <humidity unit="percent" value="84.8"/>
+        <temperature unit="celcius" value="3.9" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T14:00:00Z" to="2009-10-20T15:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T14:00:00Z" to="2009-10-20T16:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T14:00:00Z" to="2009-10-20T17:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T14:00:00Z" to="2009-10-20T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T15:00:00Z" to="2009-10-20T15:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1019.7" id="pr"/>
+        <highClouds percent="0.1" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="66.1"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="2.4" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="86.9"/>
+        <temperature unit="celcius" value="3.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T15:00:00Z" to="2009-10-20T16:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T15:00:00Z" to="2009-10-20T17:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T15:00:00Z" to="2009-10-20T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T15:00:00Z" to="2009-10-20T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T16:00:00Z" to="2009-10-20T16:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1020.1" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="0"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="50.1"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="1" mps="2.1" name="Flau vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <humidity unit="percent" value="88.7"/>
+        <temperature unit="celcius" value="3.3" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T16:00:00Z" to="2009-10-20T17:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T16:00:00Z" to="2009-10-20T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T16:00:00Z" to="2009-10-20T19:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T16:00:00Z" to="2009-10-20T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T17:00:00Z" to="2009-10-20T17:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1020.7" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="48.1"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="2.3" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="91.0"/>
+        <temperature unit="celcius" value="3.3" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T17:00:00Z" to="2009-10-20T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T17:00:00Z" to="2009-10-20T19:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T17:00:00Z" to="2009-10-20T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T17:00:00Z" to="2009-10-20T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T18:00:00Z" to="2009-10-20T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1020.9" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="45.2"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="2.5" name="Svak vind" id="ff"/>
+        <cloudiness percent="71.1" id="NN"/>
+        <lowClouds percent="71.0" id="LOW"/>
+        <humidity unit="percent" value="92.7"/>
+        <temperature unit="celcius" value="3.1" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T18:00:00Z" to="2009-10-20T19:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T18:00:00Z" to="2009-10-20T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T18:00:00Z" to="2009-10-20T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T18:00:00Z" to="2009-10-21T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T19:00:00Z" to="2009-10-20T19:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1021.3" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="40.8"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="2.8" name="Svak vind" id="ff"/>
+        <cloudiness percent="77.3" id="NN"/>
+        <lowClouds percent="77.4" id="LOW"/>
+        <humidity unit="percent" value="96.6"/>
+        <temperature unit="celcius" value="2.5" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T19:00:00Z" to="2009-10-20T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T19:00:00Z" to="2009-10-20T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T19:00:00Z" to="2009-10-20T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T19:00:00Z" to="2009-10-21T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T20:00:00Z" to="2009-10-20T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1021.9" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="43.8"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="3.1" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="96.9"/>
+        <temperature unit="celcius" value="2.7" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T20:00:00Z" to="2009-10-20T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T20:00:00Z" to="2009-10-20T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T20:00:00Z" to="2009-10-20T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T20:00:00Z" to="2009-10-21T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T21:00:00Z" to="2009-10-20T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1022.3" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="41.6"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="3.4" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="95.8"/>
+        <temperature unit="celcius" value="3.0" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T21:00:00Z" to="2009-10-20T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T21:00:00Z" to="2009-10-20T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T21:00:00Z" to="2009-10-21T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T21:00:00Z" to="2009-10-21T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T22:00:00Z" to="2009-10-20T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1022.6" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="40.7"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="3.4" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <humidity unit="percent" value="95.1"/>
+        <temperature unit="celcius" value="3.2" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T22:00:00Z" to="2009-10-20T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T22:00:00Z" to="2009-10-21T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T22:00:00Z" to="2009-10-21T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T22:00:00Z" to="2009-10-21T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T23:00:00Z" to="2009-10-20T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1022.6" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="40.2"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="3.5" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="94.4"/>
+        <temperature unit="celcius" value="3.3" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T23:00:00Z" to="2009-10-21T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T23:00:00Z" to="2009-10-21T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T23:00:00Z" to="2009-10-21T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-20T23:00:00Z" to="2009-10-21T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T00:00:00Z" to="2009-10-21T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1022.8" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="46.9"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="2" mps="3.5" name="Svak vind" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="94.3"/>
+        <temperature unit="celcius" value="3.4" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T00:00:00Z" to="2009-10-21T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T00:00:00Z" to="2009-10-21T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T00:00:00Z" to="2009-10-21T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T00:00:00Z" to="2009-10-21T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T01:00:00Z" to="2009-10-21T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1022.9" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="38.9"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="3.7" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="93.5"/>
+        <temperature unit="celcius" value="3.5" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T01:00:00Z" to="2009-10-21T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T01:00:00Z" to="2009-10-21T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T01:00:00Z" to="2009-10-21T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T01:00:00Z" to="2009-10-21T07:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T02:00:00Z" to="2009-10-21T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1022.8" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="37.3"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="3.7" name="Lett bris" id="ff"/>
+        <cloudiness percent="97.7" id="NN"/>
+        <lowClouds percent="94.4" id="LOW"/>
+        <humidity unit="percent" value="93.6"/>
+        <temperature unit="celcius" value="3.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T02:00:00Z" to="2009-10-21T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T02:00:00Z" to="2009-10-21T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T02:00:00Z" to="2009-10-21T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T02:00:00Z" to="2009-10-21T08:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T03:00:00Z" to="2009-10-21T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1022.9" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="46.1"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="3.7" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="93.2"/>
+        <temperature unit="celcius" value="3.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T03:00:00Z" to="2009-10-21T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T03:00:00Z" to="2009-10-21T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T03:00:00Z" to="2009-10-21T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T03:00:00Z" to="2009-10-21T09:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T04:00:00Z" to="2009-10-21T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1022.9" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="41.0"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.2" name="Lett bris" id="ff"/>
+        <cloudiness percent="95.7" id="NN"/>
+        <lowClouds percent="95.8" id="LOW"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <humidity unit="percent" value="91.8"/>
+        <temperature unit="celcius" value="3.7" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T04:00:00Z" to="2009-10-21T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T04:00:00Z" to="2009-10-21T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T04:00:00Z" to="2009-10-21T07:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T04:00:00Z" to="2009-10-21T10:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T05:00:00Z" to="2009-10-21T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1023.3" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="38.8"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="3.7" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="92.3"/>
+        <temperature unit="celcius" value="3.7" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T05:00:00Z" to="2009-10-21T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T05:00:00Z" to="2009-10-21T07:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T05:00:00Z" to="2009-10-21T08:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T05:00:00Z" to="2009-10-21T11:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T06:00:00Z" to="2009-10-21T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1023.5" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="42.3"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="3.9" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="93.9"/>
+        <temperature unit="celcius" value="3.7" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T06:00:00Z" to="2009-10-21T07:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T06:00:00Z" to="2009-10-21T08:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T06:00:00Z" to="2009-10-21T09:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T06:00:00Z" to="2009-10-21T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T07:00:00Z" to="2009-10-21T07:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1023.7" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="47.0"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.2" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="94.3"/>
+        <temperature unit="celcius" value="3.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T07:00:00Z" to="2009-10-21T08:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T07:00:00Z" to="2009-10-21T09:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T07:00:00Z" to="2009-10-21T10:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T07:00:00Z" to="2009-10-21T13:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T08:00:00Z" to="2009-10-21T08:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.0" id="pr"/>
+        <highClouds percent="11.3" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="49.5"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.5" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="92.4"/>
+        <temperature unit="celcius" value="3.7" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T08:00:00Z" to="2009-10-21T09:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T08:00:00Z" to="2009-10-21T10:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T08:00:00Z" to="2009-10-21T11:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T08:00:00Z" to="2009-10-21T14:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T09:00:00Z" to="2009-10-21T09:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.2" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="52.6"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.8" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="89.3"/>
+        <temperature unit="celcius" value="4.0" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T09:00:00Z" to="2009-10-21T10:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T09:00:00Z" to="2009-10-21T11:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T09:00:00Z" to="2009-10-21T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T09:00:00Z" to="2009-10-21T15:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T10:00:00Z" to="2009-10-21T10:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.3" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="48.9"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.8" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <humidity unit="percent" value="85.1"/>
+        <temperature unit="celcius" value="4.2" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T10:00:00Z" to="2009-10-21T11:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T10:00:00Z" to="2009-10-21T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T10:00:00Z" to="2009-10-21T13:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T10:00:00Z" to="2009-10-21T16:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T11:00:00Z" to="2009-10-21T11:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.2" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="51.9"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.1" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="81.8"/>
+        <temperature unit="celcius" value="4.5" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T11:00:00Z" to="2009-10-21T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.2"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T11:00:00Z" to="2009-10-21T13:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T11:00:00Z" to="2009-10-21T14:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T11:00:00Z" to="2009-10-21T17:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T12:00:00Z" to="2009-10-21T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.3" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="47.3"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.0" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="81.0"/>
+        <temperature unit="celcius" value="4.7" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T12:00:00Z" to="2009-10-21T13:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T12:00:00Z" to="2009-10-21T14:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T12:00:00Z" to="2009-10-21T15:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T12:00:00Z" to="2009-10-21T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T13:00:00Z" to="2009-10-21T13:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.3" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="51.0"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="3.7" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="80.9"/>
+        <temperature unit="celcius" value="4.8" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T13:00:00Z" to="2009-10-21T14:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T13:00:00Z" to="2009-10-21T15:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T13:00:00Z" to="2009-10-21T16:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T13:00:00Z" to="2009-10-21T19:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T14:00:00Z" to="2009-10-21T14:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.3" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="50.2"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.1" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="81.2"/>
+        <temperature unit="celcius" value="4.9" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T14:00:00Z" to="2009-10-21T15:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T14:00:00Z" to="2009-10-21T16:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T14:00:00Z" to="2009-10-21T17:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T14:00:00Z" to="2009-10-21T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T15:00:00Z" to="2009-10-21T15:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.2" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="49.5"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.4" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="81.7"/>
+        <temperature unit="celcius" value="4.9" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T15:00:00Z" to="2009-10-21T16:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T15:00:00Z" to="2009-10-21T17:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T15:00:00Z" to="2009-10-21T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T15:00:00Z" to="2009-10-21T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T16:00:00Z" to="2009-10-21T16:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.1" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="0"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="48.6"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.5" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <humidity unit="percent" value="83.4"/>
+        <temperature unit="celcius" value="4.9" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T16:00:00Z" to="2009-10-21T17:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T16:00:00Z" to="2009-10-21T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T16:00:00Z" to="2009-10-21T19:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T16:00:00Z" to="2009-10-21T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T17:00:00Z" to="2009-10-21T17:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.2" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="51.7"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.4" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="86.9"/>
+        <temperature unit="celcius" value="4.7" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T17:00:00Z" to="2009-10-21T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T17:00:00Z" to="2009-10-21T19:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T17:00:00Z" to="2009-10-21T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T17:00:00Z" to="2009-10-21T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T18:00:00Z" to="2009-10-21T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.2" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="50.1"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.5" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="91.7"/>
+        <temperature unit="celcius" value="4.5" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T18:00:00Z" to="2009-10-21T19:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T18:00:00Z" to="2009-10-21T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T18:00:00Z" to="2009-10-21T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T18:00:00Z" to="2009-10-22T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T19:00:00Z" to="2009-10-21T19:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.4" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="55.2"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="3.9" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="95.1"/>
+        <temperature unit="celcius" value="4.4" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T19:00:00Z" to="2009-10-21T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T19:00:00Z" to="2009-10-21T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T19:00:00Z" to="2009-10-21T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T19:00:00Z" to="2009-10-22T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T20:00:00Z" to="2009-10-21T20:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.6" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="49.4"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.4" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="95.2"/>
+        <temperature unit="celcius" value="4.4" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T20:00:00Z" to="2009-10-21T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T20:00:00Z" to="2009-10-21T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T20:00:00Z" to="2009-10-21T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T20:00:00Z" to="2009-10-22T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T21:00:00Z" to="2009-10-21T21:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.7" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="54.6"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.6" name="Lett bris" id="ff"/>
+        <cloudiness percent="96.1" id="NN"/>
+        <lowClouds percent="85.8" id="LOW"/>
+        <humidity unit="percent" value="95.3"/>
+        <temperature unit="celcius" value="4.3" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T21:00:00Z" to="2009-10-21T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T21:00:00Z" to="2009-10-21T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T21:00:00Z" to="2009-10-22T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T21:00:00Z" to="2009-10-22T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T22:00:00Z" to="2009-10-21T22:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.9" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="52.4"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.9" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <humidity unit="percent" value="94.3"/>
+        <temperature unit="celcius" value="4.4" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T22:00:00Z" to="2009-10-21T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T22:00:00Z" to="2009-10-22T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T22:00:00Z" to="2009-10-22T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T22:00:00Z" to="2009-10-22T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T23:00:00Z" to="2009-10-21T23:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.6" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="52.6"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="5.5" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="93.3"/>
+        <temperature unit="celcius" value="4.4" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T23:00:00Z" to="2009-10-22T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T23:00:00Z" to="2009-10-22T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T23:00:00Z" to="2009-10-22T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-21T23:00:00Z" to="2009-10-22T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T00:00:00Z" to="2009-10-22T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.4" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="54.1"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="5.6" name="Lett bris" id="ff"/>
+        <cloudiness percent="99.0" id="NN"/>
+        <lowClouds percent="98.9" id="LOW"/>
+        <humidity unit="percent" value="92.2"/>
+        <temperature unit="celcius" value="4.4" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T00:00:00Z" to="2009-10-22T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="2" id="LIGHTCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T00:00:00Z" to="2009-10-22T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="2" id="LIGHTCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T00:00:00Z" to="2009-10-22T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T00:00:00Z" to="2009-10-22T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T01:00:00Z" to="2009-10-22T01:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1024.1" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="51.6"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="4" mps="6.1" name="Laber bris" id="ff"/>
+        <cloudiness percent="28.3" id="NN"/>
+        <lowClouds percent="27.3" id="LOW"/>
+        <humidity unit="percent" value="94.9"/>
+        <temperature unit="celcius" value="3.8" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T01:00:00Z" to="2009-10-22T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T01:00:00Z" to="2009-10-22T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T01:00:00Z" to="2009-10-22T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="3" id="PARTLYCLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T02:00:00Z" to="2009-10-22T02:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1023.8" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="50.8"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="4" mps="5.9" name="Laber bris" id="ff"/>
+        <cloudiness percent="40.8" id="NN"/>
+        <lowClouds percent="26.2" id="LOW"/>
+        <humidity unit="percent" value="94.4"/>
+        <temperature unit="celcius" value="3.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T02:00:00Z" to="2009-10-22T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T02:00:00Z" to="2009-10-22T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T02:00:00Z" to="2009-10-22T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T03:00:00Z" to="2009-10-22T03:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1023.5" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="49.3"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="4" mps="5.8" name="Laber bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="94.0"/>
+        <temperature unit="celcius" value="3.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T03:00:00Z" to="2009-10-22T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T03:00:00Z" to="2009-10-22T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T03:00:00Z" to="2009-10-22T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T04:00:00Z" to="2009-10-22T04:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1023.4" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="49.3"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="5.3" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="93.0"/>
+        <temperature unit="celcius" value="3.8" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T04:00:00Z" to="2009-10-22T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T04:00:00Z" to="2009-10-22T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T05:00:00Z" to="2009-10-22T05:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <fog percent="0.0" id="FOG"/>
+        <pressure unit="hPa" value="1023.5" id="pr"/>
+        <highClouds percent="0.0" id="HIGH"/>
+        <windDirection name="NE" id="dd" deg="52.4"/>
+        <mediumClouds percent="0.0" id="MEDIUM"/>
+        <windSpeed beaufort="3" mps="4.7" name="Lett bris" id="ff"/>
+        <cloudiness percent="100.0" id="NN"/>
+        <lowClouds percent="100.0" id="LOW"/>
+        <humidity unit="percent" value="93.3"/>
+        <temperature unit="celcius" value="3.9" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T05:00:00Z" to="2009-10-22T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T06:00:00Z" to="2009-10-22T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1022.8" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="NE" id="dd" deg="41.5"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="2.5" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="4.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T06:00:00Z" to="2009-10-22T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.4"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T12:00:00Z" to="2009-10-22T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1022.8" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="E" id="dd" deg="80.7"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="3" mps="4.0" name="Lett bris" id="ff"/>
+        <temperature unit="celcius" value="6.9" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T12:00:00Z" to="2009-10-22T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.3"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T18:00:00Z" to="2009-10-22T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1022.0" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="NE" id="dd" deg="58.8"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="3.4" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="5.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-22T18:00:00Z" to="2009-10-23T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.5"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-23T00:00:00Z" to="2009-10-23T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1022.0" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="NE" id="dd" deg="56.1"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="3.5" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="4.7" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-23T00:00:00Z" to="2009-10-23T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.5"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-23T06:00:00Z" to="2009-10-23T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1019.6" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="NE" id="dd" deg="62.6"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="3.5" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="3.9" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-23T06:00:00Z" to="2009-10-23T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.8"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-23T12:00:00Z" to="2009-10-23T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1020.0" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="NE" id="dd" deg="52.7"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="3" mps="4.0" name="Lett bris" id="ff"/>
+        <temperature unit="celcius" value="4.2" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-23T12:00:00Z" to="2009-10-23T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.5"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-23T18:00:00Z" to="2009-10-23T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1019.5" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="NE" id="dd" deg="34.2"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="3.1" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="3.7" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-23T18:00:00Z" to="2009-10-24T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.7"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-24T00:00:00Z" to="2009-10-24T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1019.3" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="NE" id="dd" deg="42.8"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="3.0" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="3.5" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-24T00:00:00Z" to="2009-10-24T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.7"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-24T06:00:00Z" to="2009-10-24T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1017.5" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="SE" id="dd" deg="119.3"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="2.7" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="3.0" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-24T06:00:00Z" to="2009-10-24T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.5"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-24T12:00:00Z" to="2009-10-24T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1023.0" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="NE" id="dd" deg="32.6"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="2.1" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="4.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-24T12:00:00Z" to="2009-10-24T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-24T18:00:00Z" to="2009-10-24T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1020.6" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="N" id="dd" deg="19.3"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="1" mps="1.9" name="Flau vind" id="ff"/>
+        <temperature unit="celcius" value="3.0" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-24T18:00:00Z" to="2009-10-25T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-25T00:00:00Z" to="2009-10-25T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1019.6" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="N" id="dd" deg="348.1"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="1" mps="1.9" name="Flau vind" id="ff"/>
+        <temperature unit="celcius" value="2.9" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-25T00:00:00Z" to="2009-10-25T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="2"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-25T06:00:00Z" to="2009-10-25T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1016.9" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="NE" id="dd" deg="38.8"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="2.4" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="3.9" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-25T06:00:00Z" to="2009-10-25T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.7"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-25T12:00:00Z" to="2009-10-25T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1021.9" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="1"/>
+        <windDirection name="NE" id="dd" deg="53.5"/>
+        <windProbability unit="probabilitycode" value="1"/>
+        <windSpeed beaufort="2" mps="3.1" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="5.6" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-25T12:00:00Z" to="2009-10-25T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="2"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-25T18:00:00Z" to="2009-10-25T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1015.2" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="NE" id="dd" deg="32.8"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="2.9" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="5.1" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-25T18:00:00Z" to="2009-10-26T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="1.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-26T00:00:00Z" to="2009-10-26T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1015.5" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="NE" id="dd" deg="39.5"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="3.0" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="5.0" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-26T00:00:00Z" to="2009-10-26T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="1.2"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-26T06:00:00Z" to="2009-10-26T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1015.3" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="E" id="dd" deg="85.5"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="2.6" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="4.5" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-26T06:00:00Z" to="2009-10-26T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="9" id="LIGHTRAIN"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.6"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-26T12:00:00Z" to="2009-10-26T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1021.6" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="N" id="dd" deg="346.6"/>
+        <windProbability unit="probabilitycode" value="1"/>
+        <windSpeed beaufort="2" mps="2.4" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="6.1" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-26T12:00:00Z" to="2009-10-26T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="2"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-26T18:00:00Z" to="2009-10-26T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1019.8" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="S" id="dd" deg="194.3"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="2.2" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="3.7" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-26T18:00:00Z" to="2009-10-27T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="2"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-27T00:00:00Z" to="2009-10-27T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1021.3" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="S" id="dd" deg="193.0"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="2.2" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="2.3" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-27T00:00:00Z" to="2009-10-27T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="1"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-27T06:00:00Z" to="2009-10-27T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1021.6" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="NE" id="dd" deg="44.5"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="1" mps="1.9" name="Flau vind" id="ff"/>
+        <temperature unit="celcius" value="0.8" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-27T06:00:00Z" to="2009-10-27T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="2"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-27T12:00:00Z" to="2009-10-27T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1023.1" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="NE" id="dd" deg="50.7"/>
+        <windProbability unit="probabilitycode" value="1"/>
+        <windSpeed beaufort="2" mps="3.2" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="6.2" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-27T12:00:00Z" to="2009-10-27T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="2"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-27T18:00:00Z" to="2009-10-27T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1024.7" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="N" id="dd" deg="341.4"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="2.4" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="2.8" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-27T18:00:00Z" to="2009-10-28T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="2"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-28T00:00:00Z" to="2009-10-28T00:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1025.8" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="NW" id="dd" deg="336.5"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="2.3" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="0.5" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-28T00:00:00Z" to="2009-10-28T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="2"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-28T06:00:00Z" to="2009-10-28T06:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1026.5" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="NE" id="dd" deg="23.3"/>
+        <windProbability unit="probabilitycode" value="1"/>
+        <windSpeed beaufort="2" mps="2.3" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="-0.1" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-28T06:00:00Z" to="2009-10-28T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="2"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-28T12:00:00Z" to="2009-10-28T12:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1026.7" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="E" id="dd" deg="112.3"/>
+        <windProbability unit="probabilitycode" value="1"/>
+        <windSpeed beaufort="2" mps="3.0" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="3.9" id="TTT"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-28T12:00:00Z" to="2009-10-28T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <symbol number="4" id="CLOUD"/>
+        <symbolProbability unit="probabilitycode" value="2"/>
+        <precipitation unit="mm" value="0.0"/>
+      </location>
+    </time>
+    <time datatype="forecast" from="2009-10-28T18:00:00Z" to="2009-10-28T18:00:00Z">
+      <location longitude="10.7500" latitude="59.9000" altitude="0">
+        <pressure unit="hPa" value="1022.8" id="pr"/>
+        <temperatureProbability unit="probabilitycode" value="2"/>
+        <windDirection name="N" id="dd" deg="337.7"/>
+        <windProbability unit="probabilitycode" value="0"/>
+        <windSpeed beaufort="2" mps="2.6" name="Svak vind" id="ff"/>
+        <temperature unit="celcius" value="1.8" id="TTT"/>
+      </location>
+    </time>
+  </product>
+</weatherdata>
