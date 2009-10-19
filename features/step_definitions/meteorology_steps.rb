@@ -8,6 +8,10 @@ Given /^I have a geocoded Ruby class$/ do
       10.75
     end
   end
+  
+  FakeWeb.register_uri(:get, 
+          Meteorology::Providers::Yr::URL % [59.9, 10.75],
+          :body => File.read($fixture_dir + '/yr.no/locationforecast-1.6.xml'))
 end
 
 Given /^I include Meteorology in the objects class$/ do

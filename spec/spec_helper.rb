@@ -4,6 +4,8 @@ require 'meteorology'
 
 require 'spec/autorun'
 
+require 'fakeweb'
+
 Spec::Runner.configure do |config|
   
 end

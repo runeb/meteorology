@@ -5,6 +5,11 @@ require 'spec/expectations'
 
 require "spec/mocks"
 
+require 'fakeweb'
+FakeWeb.allow_net_connect = false
+
+$fixture_dir = File.join(File.dirname(__FILE__), '..', '..', 'fixtures')
+
 Before do
   $rspec_mocks ||= Spec::Mocks::Space.new
 end

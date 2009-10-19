@@ -5,7 +5,7 @@ module Meteorology
       URL = "http://api.yr.no/weatherapi/locationforecast/1.6/?lat=%s;lon=%s"
 
       def load(lat, lng)
-        parser = LibXML::XML::SaxParser.file(URL % [lat, lng])
+        parser = LibXML::XML::SaxParser.string(Net::HTTP.get(URI.parse(URL % [lat, lng])))
         parser.callbacks = XmlParser.new
         parser.parse
         return parser.callbacks.forecasts

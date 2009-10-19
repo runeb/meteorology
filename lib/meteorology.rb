@@ -1,6 +1,8 @@
 require 'rubygems'
 require 'libxml'
 require 'time'
+require 'uri'
+require 'net/http'
 
 require 'meteorology/weather_collection'
 require 'meteorology/weather'
